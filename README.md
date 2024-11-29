@@ -2,7 +2,7 @@
 Учебный проект в рамках курса веб-разработки devman
 
 ## Описание
-Проект **Static Jinja Plus Docker** упаковывает библиотеку [Static Jinja Plus](https://github.com/MrDave/StaticJinjaPlus) для генерации статических сайтов в Docker-контейнерах. В репозитории представлены несколько Dockerfile, каждый из которых использует разные базовые образы и методы развертывания.
+Проект **Static Jinja Plus Docker** упаковывает библиотеку [Static Jinja Plus](https://github.com/MrDave/StaticJinjaPlus) для генерации статических сайтов в Docker-контейнерах. В репозитории представлены несколько Dockerfile, каждый из которых использует разные базовые образы и методы развертывания. Ссылка на [DockerHub](https://hub.docker.com/repository/docker/askripko/static_jinja_plus/tags)
 
 1. **latest-ubuntu**
    - Последняя версия ubuntu
